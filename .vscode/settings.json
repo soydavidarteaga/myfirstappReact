@@ -1,0 +1,3 @@
+{
+    "emmet.includeLanguages":{ "Vue-HTML": "HTML", "JavaScript": "HTML"}
+}
